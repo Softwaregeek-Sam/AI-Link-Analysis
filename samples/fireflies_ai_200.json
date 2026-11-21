@@ -1,0 +1,591 @@
+{
+  "success": true,
+  "website": "https://fireflies.ai",
+  "brand": {
+    "name": "Fireflies.ai",
+    "category": "AI meeting transcription and assistant platform",
+    "summary": "AI teammate that records, transcribes, summarizes and analyzes meetings, emails, messages and tasks, integrating with 240+ apps."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "Fireflies.ai offers an AI-powered note‑taker and assistant that captures meetings, emails and tasks, provides searchable knowledge and automates workflows.",
+      "main_products_services": [
+        "AI Notetaker",
+        "Email Assistant",
+        "Slack Assistant",
+        "Live Assist",
+        "Voice Agents"
+      ],
+      "competitors": [
+        {
+          "name": "Otter.ai",
+          "main_service": "AI meeting transcription",
+          "target_market": "Individuals and teams",
+          "strengths": [
+            "Easy to use",
+            "Free tier",
+            "Accurate transcription"
+          ],
+          "weaknesses": [
+            "Limited integrations",
+            "Less automation"
+          ],
+          "source": "ai_suggested"
+        },
+        {
+          "name": "Granola",
+          "main_service": "AI note‑taking for calls",
+          "target_market": "SMBs and startups",
+          "strengths": [
+            "Real‑time captions",
+            "Simple UI"
+          ],
+          "weaknesses": [
+            "Fewer enterprise features",
+            "Limited app ecosystem"
+          ],
+          "source": "ai_suggested"
+        },
+        {
+          "name": "Gong.io",
+          "main_service": "Conversation intelligence for sales",
+          "target_market": "Enterprise sales teams",
+          "strengths": [
+            "Deep analytics",
+            "CRM integration"
+          ],
+          "weaknesses": [
+            "Higher price",
+            "Focus on sales only"
+          ],
+          "source": "ai_suggested"
+        }
+      ],
+      "brand_advantages": [
+        "Records, transcribes and summarizes across 240+ apps",
+        "Enterprise‑grade security (ISO 42001, SOC 2, GDPR)",
+        "AI assistant that can execute tasks and answer queries",
+        "Voice agents for scalable interview and call handling",
+        "No data used to train external AI models"
+      ],
+      "opportunities": [
+        "Title exceeds optimal length; shorten for SERP",
+        "16 images lack alt text; add descriptive alt attributes",
+        "Add detailed pricing tables on the Pricing page",
+        "Create case study pages to showcase ROI",
+        "Develop dedicated comparison pages for Otter, Gong, etc."
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "AI meeting transcription tool for remote teams",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Service Search",
+        "business_relevance": "Fireflies provides AI transcription and summaries for Zoom, Teams and other remote meeting platforms.",
+        "target_audience": "Remote team managers"
+      },
+      {
+        "query": "Best AI note taker for small business recommendations",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "Business Discovery",
+        "business_relevance": "Fireflies is marketed to SMBs and offers a free tier for small teams.",
+        "target_audience": "Small business owners"
+      },
+      {
+        "query": "AI meeting assistant visual demo",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "Inspiration",
+        "business_relevance": "Fireflies shares product videos and UI screenshots that appeal to visual learners.",
+        "target_audience": "Marketing professionals"
+      },
+      {
+        "query": "Enterprise AI assistant for sales teams",
+        "platforms": [
+          "LinkedIn"
+        ],
+        "intent": "B2B Search",
+        "business_relevance": "Fireflies integrates with CRMs and provides sales‑focused analytics and action‑item tracking.",
+        "target_audience": "Sales directors"
+      },
+      {
+        "query": "Fireflies AI vs Otter comparison",
+        "platforms": [
+          "X"
+        ],
+        "intent": "Comparison",
+        "business_relevance": "Fireflies lists differences from Otter in its FAQ, making this a relevant discussion topic.",
+        "target_audience": "Tech decision makers"
+      }
+    ],
+    "seo_improvements": {
+      "issues_found": [
+        "Title length is 94 characters, exceeds 60‑character recommendation",
+        "16 images missing alt text",
+        "No detailed pricing information visible on the Pricing page"
+      ],
+      "primary_keyword": "AI meeting transcription",
+      "secondary_keywords": [
+        "AI note taker",
+        "AI assistant for work",
+        "meeting analytics"
+      ],
+      "long_tail_keywords": [
+        "AI tool to summarize Zoom meetings",
+        "AI assistant for email follow‑ups",
+        "voice agents for interview transcription"
+      ],
+      "business_keywords": [
+        "enterprise AI meeting assistant",
+        "sales call transcription",
+        "recruiting interview AI notes"
+      ],
+      "recommended_title": "Fireflies AI – Meeting Transcripts, Summaries & Assistant",
+      "title_structure": "Primary Keyword | Brand | Differentiator",
+      "meta_description": "Fireflies AI is an AI teammate that records, transcribes, summarizes and analyzes meetings, emails and tasks. Integrates with 240+ apps like Zoom, Teams, Slack and offers real‑time assistance.",
+      "supporting_content": [
+        "Landing Page: AI Meeting Transcription",
+        "FAQ: How does Fireflies ensure data privacy?",
+        "Blog Topic: Boosting Sales Productivity with AI Note‑Takers"
+      ]
+    },
+    "top_services": [
+      {
+        "name": "AI Notetaker",
+        "description": "Records, transcribes and summarizes meetings with notes, decisions and action items.",
+        "target_industry": "All industries",
+        "target_customer": "Teams that hold regular virtual meetings",
+        "main_benefit": "Accurate, searchable meeting records",
+        "source": "from_website"
+      },
+      {
+        "name": "Email Assistant",
+        "description": "Catches up on email, drafts replies, sorts inbox and tracks follow‑ups.",
+        "target_industry": "Sales, Recruiting",
+        "target_customer": "Professionals managing high email volume",
+        "main_benefit": "Saves time on email handling",
+        "source": "from_website"
+      },
+      {
+        "name": "Slack Assistant",
+        "description": "Answers questions, catches people up and suggests next steps directly in Slack.",
+        "target_industry": "Tech, Marketing",
+        "target_customer": "Teams using Slack for collaboration",
+        "main_benefit": "Instant knowledge retrieval in chat",
+        "source": "from_website"
+      },
+      {
+        "name": "Live Assist",
+        "description": "Provides real‑time answers, suggestions and coaching inside calls.",
+        "target_industry": "Customer support, Sales",
+        "target_customer": "Agents needing on‑call guidance",
+        "main_benefit": "Improves call effectiveness",
+        "source": "from_website"
+      },
+      {
+        "name": "Voice Agents",
+        "description": "Handles routine calls and interviews at scale after a one‑time setup.",
+        "target_industry": "Recruiting, Research",
+        "target_customer": "Teams conducting many interviews or surveys",
+        "main_benefit": "Automates repetitive voice interactions",
+        "source": "from_website"
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Remote teams",
+        "Sales organizations",
+        "Recruiting teams",
+        "Marketing departments",
+        "Leadership groups"
+      ],
+      "secondary_audience": [
+        "Freelancers (inferred)",
+        "Small business owners (inferred)"
+      ],
+      "industries": [
+        "Sales",
+        "Recruiting",
+        "Marketing",
+        "Healthcare",
+        "Real Estate"
+      ],
+      "business_types": [
+        "Enterprise",
+        "SMB",
+        "Startup"
+      ],
+      "customer_profiles": [
+        "Team leads",
+        "Sales reps",
+        "Recruiters",
+        "Marketers"
+      ],
+      "geographic_focus": "Global (English, Español, Deutsch, Français, Português)",
+      "customer_needs": [
+        "Accurate meeting transcripts",
+        "Action‑item tracking",
+        "Email management",
+        "Knowledge search",
+        "Task automation"
+      ],
+      "customer_interests": [
+        "Productivity tools",
+        "AI assistants",
+        "Workflow automation",
+        "Data security"
+      ],
+      "recommended_segments": [
+        {
+          "audience": "Enterprise sales teams",
+          "business_type": "Enterprise",
+          "requirement": "CRM integration and deal analytics"
+        },
+        {
+          "audience": "Recruiting coordinators",
+          "business_type": "SMB",
+          "requirement": "Interview transcription and candidate scorecards"
+        }
+      ]
+    }
+  },
+  "final_url": "https://fireflies.ai",
+  "extracted": {
+    "title": "Fireflies.ai | AI Teammate to transcribe, summarize, analyze meetings, Real time AI note taker",
+    "meta_description": "Fireflies uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams, Webex and several other platforms.",
+    "canonical": "https://fireflies.ai",
+    "lang": "en",
+    "og_site_name": "Fireflies.ai",
+    "og_title": "Fireflies.ai | AI Teammate to transcribe, summarize, analyze meetings, Real time AI note taker",
+    "og_description": "Fireflies uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams, Webex and several other platforms.",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://fireflies.ai",
+        "sameAs": [
+          "https://x.com/firefliesai",
+          "https://www.facebook.com/firefliesapp",
+          "https://www.instagram.com/firefliesai/",
+          "https://www.youtube.com/channel/UCZHSvxWARx0TRK77t1AbY0A",
+          "https://www.linkedin.com/company/fireflies-inc/",
+          "https://discord.com/invite/firefliesai"
+        ],
+        "logo": "https://fireflies.ai/logo.png",
+        "name": "Fireflies.ai",
+        "description": "AI Note Taker to Transcribe, Summarize, Analyze Meetings, Real Time AI Note Taker, AI Assistant",
+        "legalName": "Fireflies.ai Corp.",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "email": "support@fireflies.ai",
+            "url": "https://fireflies.ai/about-us",
+            "availableLanguage": [
+              "English"
+            ]
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1000 Brickell Ave, Ste 715 PMB 5136",
+          "addressLocality": "Miami",
+          "addressRegion": "FL",
+          "postalCode": "33131",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "headings": [
+      "Meet Fred Your AI Teammate For Meetings Emails Messages Tasks Your AI Teammate For Meetings, Emails, Messages, Tasks",
+      "Fred Remembers. Never Re-Explain.",
+      "Fred Finds Answers",
+      "Fred Handles What's Next",
+      "AskFred Ask Fred anything. He finds answers across all your tools and gets the work done.",
+      "AskFred",
+      "FredBots Put Fred in charge of recurring tasks. He handles the busywork on a schedule.",
+      "FredBots",
+      "Live Assist Fred gives answers, suggestions, and coaching in real time, right inside the call.",
+      "Live Assist",
+      "Voice Agents Set it up once, and Fred takes routine calls and interviews at scale.",
+      "Voice Agents",
+      "AskFred",
+      "FredBots",
+      "Live Assist",
+      "Voice Agents",
+      "Talk To Fred Wherever You Work",
+      "One Fred. Many Roles.",
+      "Works With the Tools You Already Use",
+      "Meetings",
+      "Email",
+      "Collaboration",
+      "CRM",
+      "Project Management",
+      "ATS",
+      "Enterprise-Grade Security",
+      "Enterprise-Grade Security",
+      "ISO 42001",
+      "SOC 2 Type II",
+      "GDPR & Data Privacy"
+    ],
+    "nav_links": [
+      {
+        "text": "Watch replay →",
+        "href": "https://fireflies.ai/keynote/watch"
+      },
+      {
+        "text": "Enterprise",
+        "href": "https://fireflies.ai/enterprise"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://fireflies.ai/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.fireflies.ai/login"
+      },
+      {
+        "text": "Request demo",
+        "href": "https://fireflies.ai#request-demo"
+      },
+      {
+        "text": "Get Started",
+        "href": "https://app.fireflies.ai/login"
+      },
+      {
+        "text": "Features",
+        "href": "https://fireflies.ai/product/features"
+      },
+      {
+        "text": "Notetaker",
+        "href": "https://fireflies.ai/notetaker"
+      },
+      {
+        "text": "Fireflies Talk",
+        "href": "https://fireflies.ai/talk"
+      },
+      {
+        "text": "AI Assistant",
+        "href": "https://fireflies.ai/"
+      },
+      {
+        "text": "Personal Assistant",
+        "href": "https://fireflies.ai/personal-assistant"
+      },
+      {
+        "text": "Daily Brief",
+        "href": "https://fireflies.ai/daily-brief"
+      },
+      {
+        "text": "Email Assistant",
+        "href": "https://fireflies.ai/email-assistant"
+      },
+      {
+        "text": "Live Assist",
+        "href": "https://fireflies.ai/live-assist"
+      },
+      {
+        "text": "Voice Agents",
+        "href": "https://fireflies.ai/voice-agents"
+      },
+      {
+        "text": "Slack Assistant",
+        "href": "https://fireflies.ai/slack-assistant"
+      },
+      {
+        "text": "Conversation intelligence",
+        "href": "https://fireflies.ai/conversation-intelligence"
+      },
+      {
+        "text": "Chrome Extension",
+        "href": "https://fireflies.ai/product/chrome-extension"
+      },
+      {
+        "text": "AI Skills Store",
+        "href": "https://fireflies.ai/apps"
+      },
+      {
+        "text": "API",
+        "href": "https://fireflies.ai/api"
+      },
+      {
+        "text": "Security",
+        "href": "https://fireflies.ai/security"
+      },
+      {
+        "text": "Trust Center",
+        "href": "https://trust.fireflies.ai/"
+      },
+      {
+        "text": "Sales",
+        "href": "https://fireflies.ai/use-cases/sales"
+      },
+      {
+        "text": "Recruiting",
+        "href": "https://fireflies.ai/use-cases/recruiting"
+      },
+      {
+        "text": "Marketing",
+        "href": "https://fireflies.ai/use-cases/marketing"
+      },
+      {
+        "text": "Product & User Research",
+        "href": "https://fireflies.ai/use-cases/product-and-user-research"
+      },
+      {
+        "text": "Collaboration",
+        "href": "https://fireflies.ai/use-cases/team-collaboration"
+      },
+      {
+        "text": "Engineering",
+        "href": "https://fireflies.ai/use-cases/engineering"
+      },
+      {
+        "text": "Venture Capital",
+        "href": "https://fireflies.ai/use-cases/venture-capital"
+      },
+      {
+        "text": "Healthcare",
+        "href": "https://fireflies.ai/use-cases/healthcare"
+      }
+    ],
+    "footer_links": [
+      {
+        "text": "Features",
+        "href": "https://fireflies.ai/product/features"
+      },
+      {
+        "text": "Notetaker",
+        "href": "https://fireflies.ai/notetaker"
+      },
+      {
+        "text": "Fireflies Talk",
+        "href": "https://fireflies.ai/talk"
+      },
+      {
+        "text": "AI Assistant",
+        "href": "https://fireflies.ai/"
+      },
+      {
+        "text": "Personal Assistant",
+        "href": "https://fireflies.ai/personal-assistant"
+      },
+      {
+        "text": "Daily Brief",
+        "href": "https://fireflies.ai/daily-brief"
+      },
+      {
+        "text": "Email Assistant",
+        "href": "https://fireflies.ai/email-assistant"
+      },
+      {
+        "text": "Live Assist",
+        "href": "https://fireflies.ai/live-assist"
+      },
+      {
+        "text": "Voice Agents",
+        "href": "https://fireflies.ai/voice-agents"
+      },
+      {
+        "text": "Slack Assistant",
+        "href": "https://fireflies.ai/slack-assistant"
+      },
+      {
+        "text": "Conversation intelligence",
+        "href": "https://fireflies.ai/conversation-intelligence"
+      },
+      {
+        "text": "Chrome Extension",
+        "href": "https://fireflies.ai/product/chrome-extension"
+      },
+      {
+        "text": "AI Skills Store",
+        "href": "https://fireflies.ai/apps"
+      },
+      {
+        "text": "API",
+        "href": "https://fireflies.ai/api"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://fireflies.ai/pricing"
+      },
+      {
+        "text": "Security",
+        "href": "https://fireflies.ai/security"
+      },
+      {
+        "text": "Trust Center",
+        "href": "https://trust.fireflies.ai/"
+      },
+      {
+        "text": "Sales",
+        "href": "https://fireflies.ai/use-cases/sales"
+      },
+      {
+        "text": "Recruiting",
+        "href": "https://fireflies.ai/use-cases/recruiting"
+      },
+      {
+        "text": "Marketing",
+        "href": "https://fireflies.ai/use-cases/marketing"
+      },
+      {
+        "text": "Product & User Research",
+        "href": "https://fireflies.ai/use-cases/product-and-user-research"
+      },
+      {
+        "text": "Collaboration",
+        "href": "https://fireflies.ai/use-cases/team-collaboration"
+      },
+      {
+        "text": "Engineering",
+        "href": "https://fireflies.ai/use-cases/engineering"
+      },
+      {
+        "text": "Venture Capital",
+        "href": "https://fireflies.ai/use-cases/venture-capital"
+      },
+      {
+        "text": "Healthcare",
+        "href": "https://fireflies.ai/use-cases/healthcare"
+      },
+      {
+        "text": "Podcasting",
+        "href": "https://fireflies.ai/use-cases/podcasting"
+      },
+      {
+        "text": "Real Estate",
+        "href": "https://fireflies.ai/use-cases/real-estate"
+      },
+      {
+        "text": "All integrations",
+        "href": "https://fireflies.ai/integrations"
+      },
+      {
+        "text": "Video conferencing",
+        "href": "https://fireflies.ai/integrations/videoconferencing"
+      },
+      {
+        "text": "Audio recording",
+        "href": "https://fireflies.ai/integrations/audio-recording"
+      }
+    ],
+    "body_text": "NEW\nFireflies CEO just revealed Fred, your new AI teammate.\nWatch replay →\nProduct\nSolutions\nIntegration\nResources\nEnterprise\nPricing\nLogin\nRequest demo\nGet Started\nMeet Fred\nYour\nAI\nTeammate\nFor\nMeetings\nEmails\nMessages\nTasks\nYour AI Teammate For\nMeetings, Emails, Messages, Tasks\nFred waving\nGet Started For Free\nUSED ACROSS\n1 MILLION+\nCOMPANIES\nFred Remembers. Never Re-Explain.\nFred keeps the context from every meeting,\nso you never have to repeat yourself.\nAI Notetaker\nFred records, transcribes, & summarizes meetings with notes, decisions, & action items.\nEmail Assistant\nFred catches you up on email, drafts replies, sorts your inbox, and tracks follow-ups.\nSlack Assistant\nTag Fred in Slack. He answers, catches people up, and suggests next steps.\nFireflies Talk\nFred turns your voice into clean text anywhere you work, with free unlimited dictation.\nFred Finds Answers\nFred organizes your company's scattered knowledge into one searchable place, and finds anything you need across your apps.\nKnowledge Base\nFred organizes notes, documents, projects, and conversations, ready whenever you need them.\nKnowledge Search\nAsk Fred anything across your documents, messages, meetings, and work apps.\nFred tracks action items across meetings, email, and work apps, so nothing gets missed.\nPersonal Assistant\nFred sends your daily brief and preps you for every meeting.\nAnalytics\nFred tracks deal health, spots risks, and shows trends across customers, projects, & work.\nFred Handles What's Next\nTurn knowledge into action. Fred handles repetitive tasks, updates your\napps, and gets work done for you.\nAskFred\nAsk Fred anything. He finds answers across all your tools and gets the work done.\nFredBots\nPut Fred in charge of recurring tasks. He handles the busywork on a schedule.\nLive Assist\nFred gives answers, suggestions, and coaching in real time, right inside the call.\nVoice Agents\nSet it up once, and Fred takes routine calls and interviews at scale.\nTalk To Fred Wherever You Work\nAsk Fred questions, give instructions, and get things done across your apps, without repeating yourself.\nOne Fred. Many Roles.\nUse Fred across sales, recruiting, marketing, and leadership.\nSales\nPrepare for calls, capture customer context, update your CRM, and keep deals moving.\nRecruiting\nCapture interviews, compare candidates, create reports, and keep hiring teams aligned.\nMarketing\nTurn customer and team knowledge into insights, content, reports, and campaigns.\nLeadership\nGet daily briefs, team updates, and quick answers on decisions.\nWorks With the Tools You Already Use\nFred connects with 240+ apps your team works in every day.\nNotes from every call on Zoom, Google Meet, Microsoft Teams, and more.\nEmail\nConnect Gmail or Outlook. Fred sorts your inbox and drafts replies and follow-ups.\nCollaboration\nBring Fireflies context into the tools your team already uses, like Slack and Notion.\nCRM\nSync sales calls and deal updates to HubSpot, Salesforce, and 25+ CRMs.\nProject Management\nTurn action items into tasks in 15+ tools, including Jira, Asana, and Trello.\nATS\nSend interview notes and scorecards to Ashby, Greenhouse, and Gem, and more\nEnterprise-Grade Security\nFireflies is the preferred platform for CIOs across the Fortune 500, offering robust admin controls and stringent security protocols.\nISO 42001\nCertified to the international standard for governing and managing AI responsibly.\nSOC 2 Type II\nFireflies follows industry standards for data security, privacy, and confidentiality.\nGDPR & Data Privacy\nFireflies does not use your meetings, transcripts, or conversations to train AI models, and our AI vendors are contractually barred from training on them. Your data stays yours.\nHIPAA & FERPA\nBAA for healthcare and DSA for education, available on Enterprise with Private Storage.\nTrusted by Teams Everywhere\nMatias Rodsevich\nCEO @PR Labs\n“\nFireflies brought more structure in our meetings and more transparency within our company.\n”\nEd Leon Klinger\nCEO @Flock\nImpressed by Fireflies' analytics. It helps track my team's conversations.\nLee McMahon\nCo founder @Clara\nFireflies cuts down on additional calls with customers, letting us focus directly on solutions.\nAchintya Gupta\nCo founder @Phyllo\nSuper impressed with how Fireflies helps us analyze what our customers actually need!\nFrequently Asked Questions\nWhat is Fireflies?\nWhat is an AI assistant for work?\nWhat products does Fireflies offer?\nHow is Fireflies different from Otter, Granola, and other AI notetakers?\nWhat are AI Skills?\nWhat are Voice Agents?\nWhat tools does Fireflies work with?\nDoes Fireflies connect with Claude or other AI tools?\nIs my data safe with Fireflies?\nDoes Fireflies use my data to train AI models?\nDoes Fireflies record without people knowing?\nCan Fireflies take notes without a bot joining the meeting?\nWho can see my meeting recordings and transcripts?\nWhat languages does Fireflies support?\nCan I use Fireflies for free?\nHow does Fireflies handle enterprise teams?\nWork, Handled.\nCapture knowledge, find answers, create content, and get things done across your apps, all with Fireflies.\nRequest Demo\nFeatures\nNotetaker\nAI Assistant\nDaily Brief\nConversation intelligence\nChrome Extension\nAI Skills Store\nAPI\nSecurity\nTrust Center\nUse Cases\nProduct & User Research\nEngineering\nVenture Capital\nHealthcare\nPodcasting\nReal Estate\nIntegrations\nAll integrations\nVideo conferencing\nAudio recording\nDialers\nStorage\nCompany\nAbout\nCareers\nPartnership\nHIPAA\nTerms of Service\nPrivacy Policy\nLearn\nGuide | Help center\nFireflies Community\nBlog\nProduct Announcements\nCustomers\nFireflies for Startups\nMedia kit\nDownload\nDesktop App\niOS App\nAndroid App\nContact & Help\nReport bug\nHelp Center\nContact us\n© 2026 Fireflies.ai Corp. All rights reserved.\nEnglish\n·\nEspañol\nDeutsch\nFrançais\nPortuguês (BR)",
+    "seo_signals": {
+      "title_length": 94,
+      "has_meta_description": true,
+      "h1_count": 1,
+      "images_total": 59,
+      "images_missing_alt": 16,
+      "has_schema": true
+    },
+    "thin_content": false
+  }
+}
