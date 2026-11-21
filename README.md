@@ -115,7 +115,7 @@ Set at least the following values in `.env`:
 
 ```dotenv
 LLM_API_KEY=your-provider-api-key
-LLM_BASE_URL=https://api.groq.com/openai/v1
+LLM_BASE_URL=BASE_URL_OF_PROVIDER
 LLM_MODEL=openai/gpt-oss-120b
 ```
 
@@ -129,6 +129,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 4000
 
 - API endpoint: `POST http://localhost:4000/link-analysis`
 - Swagger UI: `http://localhost:4000/docs`
+- For Live check : `https://ai-link-analysis-gv0y.onrender.com/docs`
 
 ### 5. Run the tests
 
